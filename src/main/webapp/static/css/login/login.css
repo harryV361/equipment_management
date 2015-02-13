@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+#logo label {
+	color: #fff;
+}
+
+.blog-title label {
+	font-size: 35px;
+}
+
+.login.content {
+	margin-top: 100px;
+}
